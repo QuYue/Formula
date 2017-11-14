@@ -1,5 +1,5 @@
  # hello_world
 My first repository
-![equation](http://latex.codecogs.com/gif.latex?\frac{m=100})
+![equation](http://latex.codecogs.com/gif.latex?$E = mc^2$})
 
 
