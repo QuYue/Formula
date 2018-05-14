@@ -1,11 +1,14 @@
  # hello_world
 $$ax^2 + bx + c =0$$
 $ax^2 + bx + c =0$
-```math
-$$ax^2 + bx + c$$
+```matlab
+for i=1:10
+    a=i
+    disp(num2str(a))
+end
 ```
 ```python
-for i=1:100
+for i in range(10)
     a=i
     print(a)
 ```
