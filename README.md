@@ -12,18 +12,3 @@ When <span>$a \ne 0$</span>, there are two solutions to <span>$ax^2 + bx + c = 0
 <div>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</div>
 </body>
 </html>
-
-# hello_world
-$$ax^2 + bx + c =0$$
-$ax^2 + bx + c =0$
-```matlab
-for i=1:10
-    a=i
-    disp(num2str(a))   11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-end
-```
-```python
-for i in range(10)
-    a=i
-    print(a)
-```
