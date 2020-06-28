@@ -56,7 +56,6 @@ The code produces the following output
 
 ![Example of a formula rendered with javafx](src/templates/Example1.png)
 
-
 ```
 
 public class FXApp extends Application {
